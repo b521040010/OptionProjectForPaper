@@ -1,0 +1,500 @@
+Ticker		Expiration Date			PX_BID	1692.01									
+SPX Index		19/10/2013			PX_ASK	1698.05									
+															
+		PX_BID	PX_ASK	OPT_STRIKE_PX	OPT_PUT_CALL	OPT_DAYS_EXPIRE					PX_BID	PX_ASK	OPT_STRIKE_PX	OPT_PUT_CALL	OPT_DAYS_EXPIRE
+SPX US 10/19/13 C500		1193.1	1195.6	500	Call	17			SPX US 10/19/13 P500		#N/A N/A	0.05	500	Put	17
+SPX US 10/19/13 C600		1093.1	1095.6	600	Call	17			SPX US 10/19/13 P600		#N/A N/A	0.05	600	Put	17
+SPX US 10/19/13 C650		1043.1	1045.6	650	Call	17			SPX US 10/19/13 P650		#N/A N/A	0.05	650	Put	17
+SPX US 10/19/13 C700		993.1	995.6	700	Call	17			SPX US 10/19/13 P700		#N/A N/A	0.05	700	Put	17
+SPX US 10/19/13 C725		968.1	970.6	725	Call	17			SPX US 10/19/13 P725		#N/A N/A	0.05	725	Put	17
+SPX US 10/19/13 C750		943.1	945.6	750	Call	17			SPX US 10/19/13 P750		#N/A N/A	0.05	750	Put	17
+SPX US 10/19/13 C775		918.1	920.6	775	Call	17			SPX US 10/19/13 P775		#N/A N/A	0.05	775	Put	17
+SPX US 10/19/13 C800		893.1	895.6	800	Call	17			SPX US 10/19/13 P800		#N/A N/A	0.05	800	Put	17
+SPX US 10/19/13 C825		868.1	870.6	825	Call	17			SPX US 10/19/13 P825		#N/A N/A	0.05	825	Put	17
+SPX US 10/19/13 C850		843.2	845.6	850	Call	17			SPX US 10/19/13 P850		#N/A N/A	0.05	850	Put	17
+SPX US 10/19/13 C875		818.2	820.6	875	Call	17			SPX US 10/19/13 P875		#N/A N/A	0.05	875	Put	17
+SPX US 10/19/13 C900		793.2	795.7	900	Call	17			SPX US 10/19/13 P900		#N/A N/A	0.05	900	Put	17
+SPX US 10/19/13 C925		768.2	770.7	925	Call	17			SPX US 10/19/13 P925		#N/A N/A	0.05	925	Put	17
+SPX US 10/19/13 C950		743.2	745.7	950	Call	17			SPX US 10/19/13 P950		#N/A N/A	0.05	950	Put	17
+SPX US 10/19/13 C975		718.2	720.7	975	Call	17			SPX US 10/19/13 P975		#N/A N/A	0.05	975	Put	17
+SPX US 10/19/13 C1000		693.2	695.7	1000	Call	17			SPX US 10/19/13 P1000		#N/A N/A	0.05	1000	Put	17
+SPX US 10/19/13 C1025		668.2	670.7	1025	Call	17			SPX US 10/19/13 P1025		#N/A N/A	0.05	1025	Put	17
+SPX US 10/19/13 C1030		663.2	665.7	1030	Call	17			SPX US 10/19/13 P1030		#N/A N/A	0.05	1030	Put	17
+SPX US 10/19/13 C1040		653.2	655.7	1040	Call	17			SPX US 10/19/13 P1040		#N/A N/A	0.05	1040	Put	17
+SPX US 10/19/13 C1050		643.2	645.7	1050	Call	17			SPX US 10/19/13 P1050		#N/A N/A	0.05	1050	Put	17
+SPX US 10/19/13 C1060		633.2	635.7	1060	Call	17			SPX US 10/19/13 P1060		#N/A N/A	0.05	1060	Put	17
+SPX US 10/19/13 C1070		623.2	625.7	1070	Call	17			SPX US 10/19/13 P1070		#N/A N/A	0.05	1070	Put	17
+SPX US 10/19/13 C1075		618.2	620.7	1075	Call	17			SPX US 10/19/13 P1075		#N/A N/A	0.05	1075	Put	17
+SPX US 10/19/13 C1080		613.2	615.7	1080	Call	17			SPX US 10/19/13 P1080		#N/A N/A	0.05	1080	Put	17
+SPX US 10/19/13 C1090		603.2	605.7	1090	Call	17			SPX US 10/19/13 P1090		#N/A N/A	0.05	1090	Put	17
+SPX US 10/19/13 C1100		593.2	595.7	1100	Call	17			SPX US 10/19/13 P1100		#N/A N/A	0.05	1100	Put	17
+SPX US 10/19/13 C1105		588.2	590.7	1105	Call	17			SPX US 10/19/13 P1105		#N/A N/A	0.05	1105	Put	17
+SPX US 10/19/13 C1110		583.2	585.7	1110	Call	17			SPX US 10/19/13 P1110		#N/A N/A	0.05	1110	Put	17
+SPX US 10/19/13 C1115		578.2	580.7	1115	Call	17			SPX US 10/19/13 P1115		#N/A N/A	0.05	1115	Put	17
+SPX US 10/19/13 C1120		573.2	575.7	1120	Call	17			SPX US 10/19/13 P1120		#N/A N/A	0.05	1120	Put	17
+SPX US 10/19/13 C1125		568.2	570.7	1125	Call	17			SPX US 10/19/13 P1125		#N/A N/A	0.05	1125	Put	17
+SPX US 10/19/13 C1130		563.2	565.7	1130	Call	17			SPX US 10/19/13 P1130		#N/A N/A	0.05	1130	Put	17
+SPX US 10/19/13 C1135		558.2	560.7	1135	Call	17			SPX US 10/19/13 P1135		#N/A N/A	0.05	1135	Put	17
+SPX US 10/19/13 C1140		553.2	555.7	1140	Call	17			SPX US 10/19/13 P1140		#N/A N/A	0.05	1140	Put	17
+SPX US 10/19/13 C1145		548.2	550.7	1145	Call	17			SPX US 10/19/13 P1145		#N/A N/A	0.05	1145	Put	17
+SPX US 10/19/13 C1150		543.2	545.7	1150	Call	17			SPX US 10/19/13 P1150		#N/A N/A	0.05	1150	Put	17
+SPX US 10/19/13 C1155		538.2	540.7	1155	Call	17			SPX US 10/19/13 P1155		#N/A N/A	0.05	1155	Put	17
+SPX US 10/19/13 C1160		533.4	535.9	1160	Call	17			SPX US 10/19/13 P1160		#N/A N/A	0.05	1160	Put	17
+SPX US 10/19/13 C1165		528.2	530.7	1165	Call	17			SPX US 10/19/13 P1165		#N/A N/A	0.05	1165	Put	17
+SPX US 10/19/13 C1170		523.2	525.7	1170	Call	17			SPX US 10/19/13 P1170		#N/A N/A	0.05	1170	Put	17
+SPX US 10/19/13 C1175		518.2	520.7	1175	Call	17			SPX US 10/19/13 P1175		#N/A N/A	0.05	1175	Put	17
+SPX US 10/19/13 C1180		513.2	515.7	1180	Call	17			SPX US 10/19/13 P1180		#N/A N/A	0.05	1180	Put	17
+SPX US 10/19/13 C1185		508.2	510.7	1185	Call	17			SPX US 10/19/13 P1185		#N/A N/A	0.05	1185	Put	17
+SPX US 10/19/13 C1190		503.2	505.7	1190	Call	17			SPX US 10/19/13 P1190		#N/A N/A	0.05	1190	Put	17
+SPX US 10/19/13 C1195		498.2	500.7	1195	Call	17			SPX US 10/19/13 P1195		#N/A N/A	0.05	1195	Put	17
+SPX US 10/19/13 C1200		493.2	495.7	1200	Call	17			SPX US 10/19/13 P1200		#N/A N/A	0.05	1200	Put	17
+SPX US 10/19/13 C1205		488.2	490.7	1205	Call	17			SPX US 10/19/13 P1205		#N/A N/A	0.05	1205	Put	17
+SPX US 10/19/13 C1210		483.2	485.7	1210	Call	17			SPX US 10/19/13 P1210		#N/A N/A	0.05	1210	Put	17
+SPX US 10/19/13 C1215		478.2	480.7	1215	Call	17			SPX US 10/19/13 P1215		#N/A N/A	0.1	1215	Put	17
+SPX US 10/19/13 C1220		473.2	475.7	1220	Call	17			SPX US 10/19/13 P1220		#N/A N/A	0.1	1220	Put	17
+SPX US 10/19/13 C1225		468.2	470.7	1225	Call	17			SPX US 10/19/13 P1225		0.05	0.1	1225	Put	17
+SPX US 10/19/13 C1230		463.2	465.7	1230	Call	17			SPX US 10/19/13 P1230		0.05	0.1	1230	Put	17
+SPX US 10/19/13 C1235		458.2	460.7	1235	Call	17			SPX US 10/19/13 P1235		#N/A N/A	0.1	1235	Put	17
+SPX US 10/19/13 C1240		453.2	455.7	1240	Call	17			SPX US 10/19/13 P1240		#N/A N/A	0.1	1240	Put	17
+SPX US 10/19/13 C1245		448.2	450.7	1245	Call	17			SPX US 10/19/13 P1245		0.05	0.1	1245	Put	17
+SPX US 10/19/13 C1250		443.2	445.7	1250	Call	17			SPX US 10/19/13 P1250		0.05	0.1	1250	Put	17
+SPX US 10/19/13 C1255		438.2	440.7	1255	Call	17			SPX US 10/19/13 P1255		#N/A N/A	0.15	1255	Put	17
+SPX US 10/19/13 C1260		433.2	435.7	1260	Call	17			SPX US 10/19/13 P1260		0.05	0.1	1260	Put	17
+SPX US 10/19/13 C1265		428.2	430.7	1265	Call	17			SPX US 10/19/13 P1265		#N/A N/A	0.15	1265	Put	17
+SPX US 10/19/13 C1270		423.2	425.7	1270	Call	17			SPX US 10/19/13 P1270		0.05	0.1	1270	Put	17
+SPX US 10/19/13 C1275		418.2	420.7	1275	Call	17			SPX US 10/19/13 P1275		0.05	0.1	1275	Put	17
+SPX US 10/19/13 C1280		413.2	415.7	1280	Call	17			SPX US 10/19/13 P1280		#N/A N/A	0.15	1280	Put	17
+SPX US 10/19/13 C1285		408.3	411	1285	Call	17			SPX US 10/19/13 P1285		#N/A N/A	0.15	1285	Put	17
+SPX US 10/19/13 C1290		403.3	405.8	1290	Call	17			SPX US 10/19/13 P1290		#N/A N/A	0.15	1290	Put	17
+SPX US 10/19/13 C1295		398.3	400.8	1295	Call	17			SPX US 10/19/13 P1295		#N/A N/A	0.15	1295	Put	17
+SPX US 10/19/13 C1300		393.3	395.8	1300	Call	17			SPX US 10/19/13 P1300		0.05	0.15	1300	Put	17
+SPX US 10/19/13 C1305		388.3	390.8	1305	Call	17			SPX US 10/19/13 P1305		0.05	0.15	1305	Put	17
+SPX US 10/19/13 C1310		383.3	385.8	1310	Call	17			SPX US 10/19/13 P1310		0.05	0.15	1310	Put	17
+SPX US 10/19/13 C1315		378.3	380.8	1315	Call	17			SPX US 10/19/13 P1315		0.05	0.15	1315	Put	17
+SPX US 10/19/13 C1320		373.3	375.8	1320	Call	17			SPX US 10/19/13 P1320		0.05	0.15	1320	Put	17
+SPX US 10/19/13 C1325		368.3	370.8	1325	Call	17			SPX US 10/19/13 P1325		0.05	0.15	1325	Put	17
+SPX US 10/19/13 C1330		363.3	365.8	1330	Call	17			SPX US 10/19/13 P1330		0.05	0.2	1330	Put	17
+SPX US 10/19/13 C1335		358.3	360.8	1335	Call	17			SPX US 10/19/13 P1335		0.1	0.2	1335	Put	17
+SPX US 10/19/13 C1340		353.3	355.8	1340	Call	17			SPX US 10/19/13 P1340		0.15	0.2	1340	Put	17
+SPX US 10/19/13 C1345		348.3	350.8	1345	Call	17			SPX US 10/19/13 P1345		0.1	0.2	1345	Put	17
+SPX US 10/19/13 C1350		343.3	345.8	1350	Call	17			SPX US 10/19/13 P1350		0.15	0.2	1350	Put	17
+SPX US 10/19/13 C1355		338.3	340.8	1355	Call	17			SPX US 10/19/13 P1355		0.05	0.25	1355	Put	17
+SPX US 10/19/13 C1360		333.3	335.9	1360	Call	17			SPX US 10/19/13 P1360		0.05	0.25	1360	Put	17
+SPX US 10/19/13 C1365		328.3	330.9	1365	Call	17			SPX US 10/19/13 P1365		0.05	0.3	1365	Put	17
+SPX US 10/19/13 C1370		323.4	325.9	1370	Call	17			SPX US 10/19/13 P1370		0.05	0.3	1370	Put	17
+SPX US 10/19/13 C1375		318.4	320.9	1375	Call	17			SPX US 10/19/13 P1375		0.2	0.3	1375	Put	17
+SPX US 10/19/13 C1380		313.4	315.9	1380	Call	17			SPX US 10/19/13 P1380		0.15	0.3	1380	Put	17
+SPX US 10/19/13 C1385		308.4	310.9	1385	Call	17			SPX US 10/19/13 P1385		0.15	0.3	1385	Put	17
+SPX US 10/19/13 C1390		303.4	305.9	1390	Call	17			SPX US 10/19/13 P1390		0.15	0.3	1390	Put	17
+SPX US 10/19/13 C1395		298.4	301	1395	Call	17			SPX US 10/19/13 P1395		0.15	0.35	1395	Put	17
+SPX US 10/19/13 C1400		293.4	296	1400	Call	17			SPX US 10/19/13 P1400		0.2	0.35	1400	Put	17
+SPX US 10/19/13 C1405		288.4	291	1405	Call	17			SPX US 10/19/13 P1405		0.15	0.4	1405	Put	17
+SPX US 10/19/13 C1410		283.5	286	1410	Call	17			SPX US 10/19/13 P1410		0.05	0.4	1410	Put	17
+SPX US 10/19/13 C1415		278.5	281	1415	Call	17			SPX US 10/19/13 P1415		0.05	0.45	1415	Put	17
+SPX US 10/19/13 C1420		273.5	276.3	1420	Call	17			SPX US 10/19/13 P1420		0.1	0.45	1420	Put	17
+SPX US 10/19/13 C1425		268.5	271.1	1425	Call	17			SPX US 10/19/13 P1425		0.25	0.4	1425	Put	17
+SPX US 10/19/13 C1430		263.5	266.1	1430	Call	17			SPX US 10/19/13 P1430		0.25	0.85	1430	Put	17
+SPX US 10/19/13 C1435		258.6	261.1	1435	Call	17			SPX US 10/19/13 P1435		0.2	0.45	1435	Put	17
+SPX US 10/19/13 C1440		253.6	256.4	1440	Call	17			SPX US 10/19/13 P1440		0.2	0.55	1440	Put	17
+SPX US 10/19/13 C1445		248.6	251.2	1445	Call	17			SPX US 10/19/13 P1445		0.2	0.6	1445	Put	17
+SPX US 10/19/13 C1450		243.6	246.2	1450	Call	17			SPX US 10/19/13 P1450		0.3	0.5	1450	Put	17
+SPX US 10/19/13 C1455		238.7	241.2	1455	Call	17			SPX US 10/19/13 P1455		0.05	0.65	1455	Put	17
+SPX US 10/19/13 C1460		233.7	236.3	1460	Call	17			SPX US 10/19/13 P1460		0.1	0.7	1460	Put	17
+SPX US 10/19/13 C1465		228.7	231.3	1465	Call	17			SPX US 10/19/13 P1465		0.15	0.75	1465	Put	17
+SPX US 10/19/13 C1470		223.7	226.4	1470	Call	17			SPX US 10/19/13 P1470		0.15	0.75	1470	Put	17
+SPX US 10/19/13 C1475		218.8	221.4	1475	Call	17			SPX US 10/19/13 P1475		0.2	0.75	1475	Put	17
+SPX US 10/19/13 C1480		213.8	216.4	1480	Call	17			SPX US 10/19/13 P1480		0.25	0.8	1480	Put	17
+SPX US 10/19/13 C1485		208.8	211.5	1485	Call	17			SPX US 10/19/13 P1485		0.25	0.85	1485	Put	17
+SPX US 10/19/13 C1490		203.9	206.5	1490	Call	17			SPX US 10/19/13 P1490		0.3	0.9	1490	Put	17
+SPX US 10/19/13 C1495		199.1	201.8	1495	Call	17			SPX US 10/19/13 P1495		0.3	0.95	1495	Put	17
+SPX US 10/19/13 C1500		193.9	196.6	1500	Call	17			SPX US 10/19/13 P1500		0.35	0.85	1500	Put	17
+SPX US 10/19/13 C1505		189	191.7	1505	Call	17			SPX US 10/19/13 P1505		0.4	1.05	1505	Put	17
+SPX US 10/19/13 C1510		184	186.7	1510	Call	17			SPX US 10/19/13 P1510		0.45	1.1	1510	Put	17
+SPX US 10/19/13 C1515		179.1	181.8	1515	Call	17			SPX US 10/19/13 P1515		0.5	1.2	1515	Put	17
+SPX US 10/19/13 C1520		174.1	176.8	1520	Call	17			SPX US 10/19/13 P1520		0.55	1.3	1520	Put	17
+SPX US 10/19/13 C1525		169.2	171.9	1525	Call	17			SPX US 10/19/13 P1525		0.6	1.1	1525	Put	17
+SPX US 10/19/13 C1530		164.5	167.2	1530	Call	17			SPX US 10/19/13 P1530		0.7	1.5	1530	Put	17
+SPX US 10/19/13 C1535		159.3	162.1	1535	Call	17			SPX US 10/19/13 P1535		0.75	1.55	1535	Put	17
+SPX US 10/19/13 C1540		154.4	157.1	1540	Call	17			SPX US 10/19/13 P1540		0.85	1.7	1540	Put	17
+SPX US 10/19/13 C1545		149.5	152.2	1545	Call	17			SPX US 10/19/13 P1545		0.95	1.75	1545	Put	17
+SPX US 10/19/13 C1550		144.6	147.3	1550	Call	17			SPX US 10/19/13 P1550		1.35	1.85	1550	Put	17
+SPX US 10/19/13 C1555		139.7	142.4	1555	Call	17			SPX US 10/19/13 P1555		1.15	1.95	1555	Put	17
+SPX US 10/19/13 C1560		134.8	137.5	1560	Call	17			SPX US 10/19/13 P1560		1.25	2.1	1560	Put	17
+SPX US 10/19/13 C1565		129.9	132.9	1565	Call	17			SPX US 10/19/13 P1565		1.35	2.2	1565	Put	17
+SPX US 10/19/13 C1570		125	127.8	1570	Call	17			SPX US 10/19/13 P1570		1.45	2.35	1570	Put	17
+SPX US 10/19/13 C1575		120.3	123.1	1575	Call	17			SPX US 10/19/13 P1575		1.6	2.15	1575	Put	17
+SPX US 10/19/13 C1580		115.3	118.1	1580	Call	17			SPX US 10/19/13 P1580		1.7	2.65	1580	Put	17
+SPX US 10/19/13 C1585		110.5	113.5	1585	Call	17			SPX US 10/19/13 P1585		1.95	2.8	1585	Put	17
+SPX US 10/19/13 C1590		105.7	108.7	1590	Call	17			SPX US 10/19/13 P1590		2.1	3.1	1590	Put	17
+SPX US 10/19/13 C1595		100.9	103.7	1595	Call	17			SPX US 10/19/13 P1595		2.3	3.3	1595	Put	17
+SPX US 10/19/13 C1600		96.3	99.1	1600	Call	17			SPX US 10/19/13 P1600		2.6	3.6	1600	Put	17
+SPX US 10/19/13 C1605		91.4	94.4	1605	Call	17			SPX US 10/19/13 P1605		2.8	3.8	1605	Put	17
+SPX US 10/19/13 C1610		86.7	89.7	1610	Call	17			SPX US 10/19/13 P1610		3.1	4.1	1610	Put	17
+SPX US 10/19/13 C1615		82	84.8	1615	Call	17			SPX US 10/19/13 P1615		3.4	4.4	1615	Put	17
+SPX US 10/19/13 C1620		77.6	80.3	1620	Call	17			SPX US 10/19/13 P1620		3.8	4.8	1620	Put	17
+SPX US 10/19/13 C1625		73	75.7	1625	Call	17			SPX US 10/19/13 P1625		4.4	4.8	1625	Put	17
+SPX US 10/19/13 C1630		68.3	71	1630	Call	17			SPX US 10/19/13 P1630		4.7	5.8	1630	Put	17
+SPX US 10/19/13 C1635		63.8	66.5	1635	Call	17			SPX US 10/19/13 P1635		5.2	6.3	1635	Put	17
+SPX US 10/19/13 C1640		59.6	62.2	1640	Call	17			SPX US 10/19/13 P1640		5.8	6.8	1640	Put	17
+SPX US 10/19/13 C1645		55.1	57.9	1645	Call	17			SPX US 10/19/13 P1645		6.3	7.5	1645	Put	17
+SPX US 10/19/13 C1650		50.9	53.6	1650	Call	17			SPX US 10/19/13 P1650		7	8.1	1650	Put	17
+SPX US 10/19/13 C1655		46.7	49.1	1655	Call	17			SPX US 10/19/13 P1655		7.7	8.9	1655	Put	17
+SPX US 10/19/13 C1660		42.6	45	1660	Call	17			SPX US 10/19/13 P1660		8.6	9.9	1660	Put	17
+SPX US 10/19/13 C1665		38.6	40.9	1665	Call	17			SPX US 10/19/13 P1665		9.6	10.9	1665	Put	17
+SPX US 10/19/13 C1670		34.8	37	1670	Call	17			SPX US 10/19/13 P1670		10.8	12	1670	Put	17
+SPX US 10/19/13 C1675		31.2	33.2	1675	Call	17			SPX US 10/19/13 P1675		12	13.3	1675	Put	17
+SPX US 10/19/13 C1680		27.6	29.4	1680	Call	17			SPX US 10/19/13 P1680		13.3	14.7	1680	Put	17
+SPX US 10/19/13 C1685		24.1	26.1	1685	Call	17			SPX US 10/19/13 P1685		14.8	16.3	1685	Put	17
+SPX US 10/19/13 C1690		21	22.7	1690	Call	17			SPX US 10/19/13 P1690		16.5	18.1	1690	Put	17
+SPX US 10/19/13 C1695		18	19.6	1695	Call	17			SPX US 10/19/13 P1695		18.3	20.1	1695	Put	17
+SPX US 10/19/13 C1700		15.3	16.7	1700	Call	17			SPX US 10/19/13 P1700		20.4	22.3	1700	Put	17
+SPX US 10/19/13 C1705		12.8	14.1	1705	Call	17			SPX US 10/19/13 P1705		22.9	24.7	1705	Put	17
+SPX US 10/19/13 C1710		10.5	11.7	1710	Call	17			SPX US 10/19/13 P1710		25.5	27.4	1710	Put	17
+SPX US 10/19/13 C1715		8.5	9.6	1715	Call	17			SPX US 10/19/13 P1715		28.2	30.4	1715	Put	17
+SPX US 10/19/13 C1720		6.6	7.7	1720	Call	17			SPX US 10/19/13 P1720		31.4	33.8	1720	Put	17
+SPX US 10/19/13 C1725		5.2	6.1	1725	Call	17			SPX US 10/19/13 P1725		34.6	37.3	1725	Put	17
+SPX US 10/19/13 C1730		4.2	4.8	1730	Call	17			SPX US 10/19/13 P1730		38.5	41.1	1730	Put	17
+SPX US 10/19/13 C1735		2.75	3.7	1735	Call	17			SPX US 10/19/13 P1735		42.2	45	1735	Put	17
+SPX US 10/19/13 C1740		1.95	2.85	1740	Call	17			SPX US 10/19/13 P1740		46.6	49.2	1740	Put	17
+SPX US 10/19/13 C1745		1.35	2.2	1745	Call	17			SPX US 10/19/13 P1745		51	53.6	1745	Put	17
+SPX US 10/19/13 C1750		1.2	1.8	1750	Call	17			SPX US 10/19/13 P1750		55.5	58.2	1750	Put	17
+SPX US 10/19/13 C1755		0.75	1.45	1755	Call	17			SPX US 10/19/13 P1755		60.2	62.8	1755	Put	17
+SPX US 10/19/13 C1760		0.5	1.2	1760	Call	17			SPX US 10/19/13 P1760		64.9	67.6	1760	Put	17
+SPX US 10/19/13 C1765		0.4	1	1765	Call	17			SPX US 10/19/13 P1765		69.8	72.4	1765	Put	17
+SPX US 10/19/13 C1770		0.3	0.6	1770	Call	17			SPX US 10/19/13 P1770		74.6	77.2	1770	Put	17
+SPX US 10/19/13 C1775		0.25	0.45	1775	Call	17			SPX US 10/19/13 P1775		79.5	82.1	1775	Put	17
+SPX US 10/19/13 C1780		0.2	0.3	1780	Call	17			SPX US 10/19/13 P1780		84.5	87	1780	Put	17
+SPX US 10/19/13 C1785		0.15	0.3	1785	Call	17			SPX US 10/19/13 P1785		89.4	91.9	1785	Put	17
+SPX US 10/19/13 C1790		0.15	0.25	1790	Call	17			SPX US 10/19/13 P1790		94.4	96.9	1790	Put	17
+SPX US 10/19/13 C1795		0.1	0.55	1795	Call	17			SPX US 10/19/13 P1795		99.3	101.9	1795	Put	17
+SPX US 10/19/13 C1800		0.1	0.15	1800	Call	17			SPX US 10/19/13 P1800		104.3	106.8	1800	Put	17
+SPX US 10/19/13 C1805		0.05	0.15	1805	Call	17			SPX US 10/19/13 P1805		109.3	111.8	1805	Put	17
+SPX US 10/19/13 C1810		0.05	0.5	1810	Call	17			SPX US 10/19/13 P1810		114.3	116.8	1810	Put	17
+SPX US 10/19/13 C1815		0.05	0.15	1815	Call	17			SPX US 10/19/13 P1815		119.3	121.8	1815	Put	17
+SPX US 10/19/13 C1820		0.05	0.15	1820	Call	17			SPX US 10/19/13 P1820		124.3	126.8	1820	Put	17
+SPX US 10/19/13 C1825		0.05	0.1	1825	Call	17			SPX US 10/19/13 P1825		129.3	131.8	1825	Put	17
+SPX US 10/19/13 C1830		0.05	0.15	1830	Call	17			SPX US 10/19/13 P1830		134.3	136.8	1830	Put	17
+SPX US 10/19/13 C1835		#N/A N/A	0.15	1835	Call	17			SPX US 10/19/13 P1835		139.3	141.8	1835	Put	17
+SPX US 10/19/13 C1840		#N/A N/A	0.1	1840	Call	17			SPX US 10/19/13 P1840		144.3	146.8	1840	Put	17
+SPX US 10/19/13 C1845		#N/A N/A	0.15	1845	Call	17			SPX US 10/19/13 P1845		149.3	151.8	1845	Put	17
+SPX US 10/19/13 C1850		#N/A N/A	0.1	1850	Call	17			SPX US 10/19/13 P1850		154.3	156.8	1850	Put	17
+SPX US 10/19/13 C1855		#N/A N/A	0.45	1855	Call	17			SPX US 10/19/13 P1855		159.3	161.8	1855	Put	17
+SPX US 10/19/13 C1860		#N/A N/A	0.15	1860	Call	17			SPX US 10/19/13 P1860		164.3	166.8	1860	Put	17
+SPX US 10/19/13 C1865		#N/A N/A	0.1	1865	Call	17			SPX US 10/19/13 P1865		169.3	171.8	1865	Put	17
+SPX US 10/19/13 C1870		#N/A N/A	0.05	1870	Call	17			SPX US 10/19/13 P1870		174.3	176.8	1870	Put	17
+SPX US 10/19/13 C1875		#N/A N/A	0.05	1875	Call	17			SPX US 10/19/13 P1875		179.3	181.8	1875	Put	17
+SPX US 10/19/13 C1880		#N/A N/A	0.05	1880	Call	17			SPX US 10/19/13 P1880		184.3	186.8	1880	Put	17
+SPX US 10/19/13 C1890		#N/A N/A	0.05	1890	Call	17			SPX US 10/19/13 P1890		194.3	196.8	1890	Put	17
+SPX US 10/19/13 C1900		#N/A N/A	0.05	1900	Call	17			SPX US 10/19/13 P1900		204.3	206.8	1900	Put	17
+SPX US 10/19/13 C1925		#N/A N/A	0.05	1925	Call	17			SPX US 10/19/13 P1925		229.3	231.8	1925	Put	17
+SPX US 10/19/13 C1950		#N/A N/A	0.05	1950	Call	17			SPX US 10/19/13 P1950		254.3	256.8	1950	Put	17
+SPX US 10/19/13 C1975		#N/A N/A	0.05	1975	Call	17			SPX US 10/19/13 P1975		279.3	281.8	1975	Put	17
+SPX US 10/19/13 C2000		#N/A N/A	0.05	2000	Call	17			SPX US 10/19/13 P2000		304.3	306.8	2000	Put	17
+SPX US 10/19/13 C2100		#N/A N/A	0.05	2100	Call	17			SPX US 10/19/13 P2100		404.3	406.8	2100	Put	17
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security
+		#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security					#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security	#N/A Invalid Security

@@ -1,0 +1,83 @@
+#  Security
+#################
+*chasersconfig*.php
+
+#  Compiled code
+##################
+out/
+bin/
+.idea/
+*lecture*.pdf
+*chapter*.pdf
+Release/
+Debug/
+ipch/
+memberImages/
+
+# Films
+#######
+*.avi
+
+# Exes
+##################
+hello
+tests
+projectionfilter
+newcpp
+
+
+# Temporary files
+##################
+*~
+~*
+*.asv
+*.sav
+*.bak
+*.nfs*
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.dvi
+*.ps
+*.a
+*.jar
+
+
+#
+#  Build side effects
+#
+*-actual*
+*.passed
+*.log
+*.output
+*.aux
+*.blg
+*.bbl
+*.stackdump
+*.run
+*.opensdf
+*.sdf
+*.suo
+*.fls
+*.fdb_latexmk
+testoutput*
+
+
+#
+#  Compressed files
+#
+*.zip
+*.gz
+*.synctex.gz
+
+#
+#  Nonsense
+#
+*-core
+.Rproj.user

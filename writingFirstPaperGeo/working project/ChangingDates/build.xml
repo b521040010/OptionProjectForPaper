@@ -1,0 +1,51 @@
+<project name="fm08" default="all" basedir=".">
+  <description>
+    Builds all my work
+  </description>
+
+  
+  <target name="all" depends="tests"> 
+  </target>
+
+  
+  <target name="tests">
+  	<exec dir="." executable="c:\Windows\system32\cmd.exe" failonerror="true">
+  		<arg value="/K"/>
+  		<arg value="matlabTests.bat"/>
+  	</exec>
+  </target>
+
+  <target name="web">
+  </target>
+  
+  
+  
+  <target name="clean"
+        description="clean up">
+    <!-- Delete the ${build} and ${dist} directory trees -->
+    <delete>
+    	<fileset dir="." includes="**/*chapter*.pdf,
+    	                           **/*chapter*.out,
+    	                           **/*chapter*.log,
+    	                           **/*chapter*.aux,
+    	                           **/*book*.pdf,
+    	                           **/*book*.out,
+    	                           **/*book*.log,
+    	                           **/*book*.aux,
+    	                           **/*.o,
+    	                           **/*.exe,
+    	                           **/*.zip,
+    	                           **/*.sdf,
+    	                           **/*.fls,
+    	                           **/*.fdb_latexmk,
+    	                           **/*.cmake,
+    	                           **/*.copy,
+    	                           **/CMakeLists.txt,
+    	                           **/CMakeCache.txt,
+    	                           **/CMakeFiles/**,
+    	                           **/FMLib/**/*.html,
+    	                           **/Debug/**/*,
+    	                           **synctex.gz"/>
+    </delete>
+  </target>
+</project>
